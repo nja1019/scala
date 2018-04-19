@@ -1,0 +1,35 @@
+test
+submit
+test
+~test
+test
+~test
+val myGame = Solution.createGame(X, 3, Map((0, 0) -> X, (0,1) -> X, (0, 2) -> O, (1,0) -> O))
+    val game1 = Solution.createGame(X, 3, Map((0, 0) -> X, (0, 2) -> X, (2, 2) -> O))
+Solution.createGame(X, 3, Map((0, 0) -> X, (0, 2) -> X, (2, 2) -> O))
+import Provided.scala
+console
+test
+console
+myGame4.nextBoards()
+console
+test
+console
+test
+console
+test
+console
+test
+console
+test
+~test
+test
+console
+test
+tes
+test
+~test
+test
+submit
+:q
+exit

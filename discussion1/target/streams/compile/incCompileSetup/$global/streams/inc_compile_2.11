@@ -1,0 +1,144 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/nachin/discussion1/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -feature
+3 -> -Xfatal-warnings
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+8 items
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> /Users/nachin/discussion1/target/scala-2.11/classes/Exercises$$anonfun$1.class
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> /Users/nachin/discussion1/target/scala-2.11/classes/Exercises$.class
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> /Users/nachin/discussion1/target/scala-2.11/classes/Exercises$Bird.class
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> /Users/nachin/discussion1/target/scala-2.11/classes/Exercises$Duck$.class
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> /Users/nachin/discussion1/target/scala-2.11/classes/Exercises$Duck.class
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> /Users/nachin/discussion1/target/scala-2.11/classes/Exercises$Goose$.class
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> /Users/nachin/discussion1/target/scala-2.11/classes/Exercises$Goose.class
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> /Users/nachin/discussion1/target/scala-2.11/classes/Exercises.class
+binary dependencies:
+2 items
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> /Users/nachin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+8 items
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Exercises
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Exercises$
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Exercises$$anonfun$1
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Exercises$Bird
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Exercises$Duck
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Exercises$Duck$
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Exercises$Goose
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Exercises$Goose$
+used names:
+40 items
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> &&
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> +
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> <init>
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> ==
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> A
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> AbstractFunction0
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> AnyRef
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> B
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Bird
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Duck
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Exercises
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Function2
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Goose
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Int
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> List
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Nil
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Product
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> ScalaRunTime
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> Serializable
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> _hashCode
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> _root_
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> _toString
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> acc
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> apply
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> asInstanceOf
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> f
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> fold
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> h
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> head
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> immutable
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> isInstanceOf
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> package
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> rest
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> runtime
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> scala
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> toString
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> total
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> typedProductIterator
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> x
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> xs
+product stamps:
+8 items
+/Users/nachin/discussion1/target/scala-2.11/classes/Exercises$$anonfun$1.class -> lastModified(1455138746000)
+/Users/nachin/discussion1/target/scala-2.11/classes/Exercises$.class -> lastModified(1455138746000)
+/Users/nachin/discussion1/target/scala-2.11/classes/Exercises$Bird.class -> lastModified(1455138746000)
+/Users/nachin/discussion1/target/scala-2.11/classes/Exercises$Duck$.class -> lastModified(1455138746000)
+/Users/nachin/discussion1/target/scala-2.11/classes/Exercises$Duck.class -> lastModified(1455138746000)
+/Users/nachin/discussion1/target/scala-2.11/classes/Exercises$Goose$.class -> lastModified(1455138746000)
+/Users/nachin/discussion1/target/scala-2.11/classes/Exercises$Goose.class -> lastModified(1455138746000)
+/Users/nachin/discussion1/target/scala-2.11/classes/Exercises.class -> lastModified(1455138746000)
+source stamps:
+1 items
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> hash(aba8c6c89d1f580049901ca87a49734b4ebb0de2)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/nachin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617866000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/nachin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Product
+internal apis:
+1 items
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHADNtL7AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAAxb150AAZub3RpZnlzcQB+AAwDHjZBdAAHdW5hcHBseXNxAH4ADGp7NCR0AAR3YWl0c3EAfgAM1K391nQADSRhc0luc3RhbmNlT2ZzcQB+AAz7uFdKdAAMcHJvZHVjdEFyaXR5c3EAfgAMF+7tvHQABmVxdWFsc3NxAH4ADFeHPhB0AAxhc0luc3RhbmNlT2ZzcQB+AAxuDVBDdAAMc3luY2hyb25pemVkc3EAfgAM5ikZxnQADSRpc0luc3RhbmNlT2ZzcQB+AAw1AXMxdAAEZm9sZHNxAH4ADEiMuG90AAVHb29zZXNxAH4ADAVX5bJ0AAhjYW5FcXVhbHNxAH4ADE8q4Y50AA1wcm9kdWN0UHJlZml4c3EAfgAMR77A73QACW5vdGlmeUFsbHNxAH4ADHxJRLN0AAtyZWFkUmVzb2x2ZXNxAH4ADFhAiYl0AAlFeGVyY2lzZXNzcQB+AAwUDfzkdAAMaXNJbnN0YW5jZU9mc3EAfgAMaTVe8nQABEJpcmRzcQB+AAwCS+EidAAGPGluaXQ+c3EAfgAMgnSvlHQABWFwcGx5c3EAfgAM0XH/7HQAAj09c3EAfgAM7gfJtHQABER1Y2tzcQB+AAy4yudEdAAFY2xvbmVzcQB+AAwgYWjgdAAEY29weXNxAH4ADLfqC7N0AAh0b1N0cmluZ3NxAH4ADLY82V10AAIhPXNxAH4ADG/mNd50AAhnZXRDbGFzc3NxAH4ADKwynOZ0AAJuZXNxAH4ADE7kFhJ0AAJlcXNxAH4ADIXNmo90AAlleGVyY2lzZTNzcQB+AAwbT/nydAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMPh8fqnQAAiMjc3EAfgAMd+0QmXQACGZpbmFsaXplc3EAfgAMx9LNRHQADnByb2R1Y3RFbGVtZW50c3EAfgAMJsL52nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAtdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AdXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdABwc3EAfgB5c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF1MAAlpbmhlcml0ZWRxAH4AXUwAB3BhcmVudHNxAH4AXXhxAH4AfXNxAH4AdABwc3EAfgB5dXEAfgBYAAAAAHNxAH4AdABwc3EAfgB5dXEAfgBYAAAAAHNxAH4AdABwc3EAfgB5dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB8dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB8c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCZdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCac3EAfgCNdAADQW55c3EAfgCRc3EAfgCUdXEAfgCXAAAAAnNxAH4AmXQABXNjYWxhcQB+AKB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUs0HLox1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAzL1VzZXJzL25hY2hpbi9kaXNjdXNzaW9uMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUq6jGyJ0fWABJkByoeklzS067DeI=
+external apis:
+0 items
+source infos:
+1 items
+/Users/nachin/discussion1/src/main/scala/Exercises.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqhI/1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMy9Vc2Vycy9uYWNoaW4vZGlzY3Vzc2lvbjEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqkZJ0V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMy9Vc2Vycy9uYWNoaW4vZGlzY3Vzc2lvbjEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqkb2mh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMy9Vc2Vycy9uYWNoaW4vZGlzY3Vzc2lvbjEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUs0DD6h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMy9Vc2Vycy9uYWNoaW4vZGlzY3Vzc2lvbjEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUs0HLox1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMy9Vc2Vycy9uYWNoaW4vZGlzY3Vzc2lvbjEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

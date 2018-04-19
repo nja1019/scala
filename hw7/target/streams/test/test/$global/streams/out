@@ -1,0 +1,13 @@
+[0m[[0mdebug[0m] [0mForking tests - parallelism = false[0m
+[0m[[0mdebug[0m] [0mCreate a single-thread test executor[0m
+[0m[[0mdebug[0m] [0mRunner for org.scalatest.tools.Framework produced 1 initial tasks for 1 tests.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(TrivialTestSuite, sbt.ForkMain$SubclassFingerscan@7c6b0ee0, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mTrivialTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m-  The solution object must be defined [0m[0m
+[0m[[0minfo[0m] [0m[32m- parse test-1[0m[0m
+[0m[[0minfo[0m] [0m[32m- valueAt test-1[0m[0m
+[0m[[0minfo[0m] [0m[32m- isSolved test-1[0m[0m
+[0m[[0minfo[0m] [0m[32m- isUnsolvable test-1[0m[0m
+[0m[[0minfo[0m] [0m[32m- toString test-1[0m[0m
+[0m[[0minfo[0m] [0m[32m- place test-1[0m[0m
+[0m[[0minfo[0m] [0m[32m- nextStates test-1[0m[0m

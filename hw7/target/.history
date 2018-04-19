@@ -1,0 +1,34 @@
+test
+submit
+test
+last *:checkstyle
+test
+scala
+console
+test
+scala
+console
+test
+console
+test
+console
+test
+:q
+console
+test
+last *:checkstyle
+test
+console
+test
+console
+test
+console
+:q
+test
+console
+test
+console
+test
+console
+test
+submit
